@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/rudy002/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rudy002/LeetCode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rudy002/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
