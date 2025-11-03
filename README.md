@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rudy002/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/rudy002/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Math
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/rudy002/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rudy002/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
