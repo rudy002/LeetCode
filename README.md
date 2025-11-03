@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/rudy002/LeetCode/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/rudy002/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/rudy002/LeetCode/tree/master/0344-reverse-string) |
+| [0434-number-of-segments-in-a-string](https://github.com/rudy002/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 ## Stack
 |  |
 | ------- |
