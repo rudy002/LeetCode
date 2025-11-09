@@ -1,13 +1,18 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
         
-        if len(s) !=len(t): return False
+        hashtable = {}
 
-        for letter1 in t:
-            for letter2 in s:
-                if letter1==letter2:
-                    s = s.replace(letter1, "", 1)
-                    break
+        for letter in s:
+            hashtable[letter] = hashtable.get(letter, 0) + 1
         
-        if len(s) == 0: return True
-        else: return False
+        for letter in t:
+            if letter not in hashtable: return False
+
+            hashtable[letter] -= 1
+        
+        for key in hashtable:
+            if hashtable[key] != 0:
+                return False
+
+        return True
