@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/rudy002/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/rudy002/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/rudy002/LeetCode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/rudy002/LeetCode/tree/master/0326-power-of-three) |
 | [0441-arranging-coins](https://github.com/rudy002/LeetCode/tree/master/0441-arranging-coins) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/rudy002/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## String
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/rudy002/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/rudy002/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/rudy002/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/rudy002/LeetCode/tree/master/0326-power-of-three) |
 ## Binary Search
 |  |
 | ------- |
