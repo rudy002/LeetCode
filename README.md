@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rudy002/LeetCode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rudy002/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/rudy002/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/rudy002/LeetCode/tree/master/0645-set-mismatch) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/rudy002/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1470-shuffle-the-array](https://github.com/rudy002/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/rudy002/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rudy002/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/rudy002/LeetCode/tree/master/0290-word-pattern) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rudy002/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/rudy002/LeetCode/tree/master/0645-set-mismatch) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/rudy002/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/rudy002/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rudy002/LeetCode/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/rudy002/LeetCode/tree/master/0645-set-mismatch) |
 ## Simulation
 |  |
 | ------- |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rudy002/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rudy002/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rudy002/LeetCode/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/rudy002/LeetCode/tree/master/0645-set-mismatch) |
 | [4112-maximize-expression-of-three-elements](https://github.com/rudy002/LeetCode/tree/master/4112-maximize-expression-of-three-elements) |
 ## Greedy
 |  |
