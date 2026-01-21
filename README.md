@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rudy002/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/rudy002/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/rudy002/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/rudy002/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/rudy002/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [4090-minimum-string-length-after-balanced-removals](https://github.com/rudy002/LeetCode/tree/master/4090-minimum-string-length-after-balanced-removals) |
 ## Stack
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/rudy002/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/rudy002/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/rudy002/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/rudy002/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 ## String Matching
 |  |
 | ------- |
