@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/rudy002/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/rudy002/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rudy002/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/rudy002/LeetCode/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/rudy002/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [4090-minimum-string-length-after-balanced-removals](https://github.com/rudy002/LeetCode/tree/master/4090-minimum-string-length-after-balanced-removals) |
 ## Stack
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/rudy002/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/rudy002/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rudy002/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/rudy002/LeetCode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rudy002/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/rudy002/LeetCode/tree/master/0645-set-mismatch) |
 ## Bit Manipulation
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/rudy002/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rudy002/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/rudy002/LeetCode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/rudy002/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/rudy002/LeetCode/tree/master/0645-set-mismatch) |
 ## Simulation
 |  |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rudy002/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rudy002/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rudy002/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/rudy002/LeetCode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/rudy002/LeetCode/tree/master/0645-set-mismatch) |
 | [4112-maximize-expression-of-three-elements](https://github.com/rudy002/LeetCode/tree/master/4112-maximize-expression-of-three-elements) |
 ## Greedy
