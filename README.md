@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/rudy002/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rudy002/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/rudy002/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/rudy002/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/rudy002/LeetCode/tree/master/0441-arranging-coins) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/rudy002/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## String
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/rudy002/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/rudy002/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/rudy002/LeetCode/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/rudy002/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0434-number-of-segments-in-a-string](https://github.com/rudy002/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [4090-minimum-string-length-after-balanced-removals](https://github.com/rudy002/LeetCode/tree/master/4090-minimum-string-length-after-balanced-removals) |
 ## Stack
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rudy002/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/rudy002/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/rudy002/LeetCode/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/rudy002/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/rudy002/LeetCode/tree/master/0645-set-mismatch) |
 ## Simulation
 |  |
