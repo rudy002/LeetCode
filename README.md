@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/rudy002/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rudy002/LeetCode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/rudy002/LeetCode/tree/master/0441-arranging-coins) |
+| [0504-base-7](https://github.com/rudy002/LeetCode/tree/master/0504-base-7) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/rudy002/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## String
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/rudy002/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/rudy002/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/rudy002/LeetCode/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/rudy002/LeetCode/tree/master/0504-base-7) |
 | [4090-minimum-string-length-after-balanced-removals](https://github.com/rudy002/LeetCode/tree/master/4090-minimum-string-length-after-balanced-removals) |
 ## Stack
 |  |
