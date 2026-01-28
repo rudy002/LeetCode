@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/rudy002/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/rudy002/LeetCode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/rudy002/LeetCode/tree/master/0504-base-7) |
+| [0541-reverse-string-ii](https://github.com/rudy002/LeetCode/tree/master/0541-reverse-string-ii) |
 | [4090-minimum-string-length-after-balanced-removals](https://github.com/rudy002/LeetCode/tree/master/4090-minimum-string-length-after-balanced-removals) |
 ## Stack
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rudy002/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rudy002/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/rudy002/LeetCode/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/rudy002/LeetCode/tree/master/0541-reverse-string-ii) |
 ## String Matching
 |  |
 | ------- |
