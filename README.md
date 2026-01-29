@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/rudy002/LeetCode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/rudy002/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/rudy002/LeetCode/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/rudy002/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0645-set-mismatch](https://github.com/rudy002/LeetCode/tree/master/0645-set-mismatch) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/rudy002/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1470-shuffle-the-array](https://github.com/rudy002/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/rudy002/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/rudy002/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rudy002/LeetCode/tree/master/0415-add-strings) |
+| [0566-reshape-the-matrix](https://github.com/rudy002/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [1929-concatenation-of-array](https://github.com/rudy002/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
@@ -281,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/rudy002/LeetCode/tree/master/0561-array-partition) |
+## Matrix
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/rudy002/LeetCode/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
