@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/rudy002/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/rudy002/LeetCode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/rudy002/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/rudy002/LeetCode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/rudy002/LeetCode/tree/master/0645-set-mismatch) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/rudy002/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1470-shuffle-the-array](https://github.com/rudy002/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rudy002/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/rudy002/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/rudy002/LeetCode/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/rudy002/LeetCode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/rudy002/LeetCode/tree/master/0645-set-mismatch) |
 ## Bit Manipulation
 |  |
