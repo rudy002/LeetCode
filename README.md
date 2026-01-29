@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/rudy002/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/rudy002/LeetCode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/rudy002/LeetCode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/rudy002/LeetCode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/rudy002/LeetCode/tree/master/0645-set-mismatch) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/rudy002/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1470-shuffle-the-array](https://github.com/rudy002/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -225,12 +226,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/rudy002/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/rudy002/LeetCode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/rudy002/LeetCode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/rudy002/LeetCode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/rudy002/LeetCode/tree/master/0645-set-mismatch) |
 | [4112-maximize-expression-of-three-elements](https://github.com/rudy002/LeetCode/tree/master/4112-maximize-expression-of-three-elements) |
 ## Greedy
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/rudy002/LeetCode/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/rudy002/LeetCode/tree/master/0561-array-partition) |
 | [4112-maximize-expression-of-three-elements](https://github.com/rudy002/LeetCode/tree/master/4112-maximize-expression-of-three-elements) |
 ## Enumeration
 |  |
@@ -274,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/rudy002/LeetCode/tree/master/0506-relative-ranks) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/rudy002/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
