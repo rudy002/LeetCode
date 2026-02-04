@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/rudy002/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rudy002/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rudy002/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0657-robot-return-to-origin](https://github.com/rudy002/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [4090-minimum-string-length-after-balanced-removals](https://github.com/rudy002/LeetCode/tree/master/4090-minimum-string-length-after-balanced-removals) |
 ## Stack
 |  |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/rudy002/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rudy002/LeetCode/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/rudy002/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0657-robot-return-to-origin](https://github.com/rudy002/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1929-concatenation-of-array](https://github.com/rudy002/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
