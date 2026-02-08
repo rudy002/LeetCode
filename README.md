@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/rudy002/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/rudy002/LeetCode/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/rudy002/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/rudy002/LeetCode/tree/master/0682-baseball-game) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/rudy002/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1470-shuffle-the-array](https://github.com/rudy002/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/rudy002/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/rudy002/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/rudy002/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/rudy002/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/rudy002/LeetCode/tree/master/0682-baseball-game) |
 | [4090-minimum-string-length-after-balanced-removals](https://github.com/rudy002/LeetCode/tree/master/4090-minimum-string-length-after-balanced-removals) |
 ## Two Pointers
 |  |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/rudy002/LeetCode/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/rudy002/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/rudy002/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/rudy002/LeetCode/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/rudy002/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
