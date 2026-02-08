@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rudy002/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/rudy002/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/rudy002/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0709-to-lower-case](https://github.com/rudy002/LeetCode/tree/master/0709-to-lower-case) |
 | [4090-minimum-string-length-after-balanced-removals](https://github.com/rudy002/LeetCode/tree/master/4090-minimum-string-length-after-balanced-removals) |
 ## Stack
 |  |
