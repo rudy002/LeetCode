@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/rudy002/LeetCode/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/rudy002/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/rudy002/LeetCode/tree/master/0682-baseball-game) |
+| [0705-design-hashset](https://github.com/rudy002/LeetCode/tree/master/0705-design-hashset) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/rudy002/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1470-shuffle-the-array](https://github.com/rudy002/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/rudy002/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/rudy002/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rudy002/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rudy002/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0705-design-hashset](https://github.com/rudy002/LeetCode/tree/master/0705-design-hashset) |
 ## Recursion
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/rudy002/LeetCode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rudy002/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/rudy002/LeetCode/tree/master/0645-set-mismatch) |
+| [0705-design-hashset](https://github.com/rudy002/LeetCode/tree/master/0705-design-hashset) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/rudy002/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rudy002/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/rudy002/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0705-design-hashset](https://github.com/rudy002/LeetCode/tree/master/0705-design-hashset) |
 ## Queue
 |  |
 | ------- |
@@ -308,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/rudy002/LeetCode/tree/master/0566-reshape-the-matrix) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/rudy002/LeetCode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
