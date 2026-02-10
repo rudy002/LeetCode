@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/rudy002/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/rudy002/LeetCode/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/rudy002/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/rudy002/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rudy002/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/rudy002/LeetCode/tree/master/0228-summary-ranges) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/rudy002/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/rudy002/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/rudy002/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/rudy002/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/rudy002/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/rudy002/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/rudy002/LeetCode/tree/master/0263-ugly-number) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/rudy002/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/rudy002/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rudy002/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/rudy002/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/rudy002/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/rudy002/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/rudy002/LeetCode/tree/master/0344-reverse-string) |
