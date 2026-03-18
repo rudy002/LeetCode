@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/rudy002/LeetCode/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/rudy002/LeetCode/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/rudy002/LeetCode/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/rudy002/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/rudy002/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1470-shuffle-the-array](https://github.com/rudy002/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/rudy002/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/rudy002/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/rudy002/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/rudy002/LeetCode/tree/master/0441-arranging-coins) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/rudy002/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |
