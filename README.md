@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rudy002/LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/rudy002/LeetCode/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/rudy002/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/rudy002/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/rudy002/LeetCode/tree/master/0189-rotate-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rudy002/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/rudy002/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rudy002/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/rudy002/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/rudy002/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/rudy002/LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/rudy002/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rudy002/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rudy002/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/rudy002/LeetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/rudy002/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/rudy002/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rudy002/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/rudy002/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rudy002/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/rudy002/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rudy002/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rudy002/LeetCode/tree/master/0268-missing-number) |
