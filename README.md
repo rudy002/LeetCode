@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rudy002/LeetCode/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/rudy002/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/rudy002/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/rudy002/LeetCode/tree/master/0189-rotate-array) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rudy002/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rudy002/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/rudy002/LeetCode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/rudy002/LeetCode/tree/master/0141-linked-list-cycle) |
