@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rudy002/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/rudy002/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/rudy002/LeetCode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/rudy002/LeetCode/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/rudy002/LeetCode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/rudy002/LeetCode/tree/master/0136-single-number) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rudy002/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/rudy002/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/rudy002/LeetCode/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rudy002/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/rudy002/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/rudy002/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rudy002/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/rudy002/LeetCode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/rudy002/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/rudy002/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rudy002/LeetCode/tree/master/0242-valid-anagram) |
