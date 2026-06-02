@@ -21,3 +21,19 @@ Arrays, Linked Lists, Trees, Hash Maps, Sliding Window, Two Pointers, Binary Sea
 | Hard | ~2 |
 
 Solutions are written for clarity and optimal time complexity where possible.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/rudy002/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## String
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/rudy002/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/rudy002/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+<!---LeetCode Topics End-->
