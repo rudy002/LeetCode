@@ -36,4 +36,16 @@ Solutions are written for clarity and optimal time complexity where possible.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rudy002/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Array
+|  |
+| ------- |
+| [0018-4sum](https://github.com/rudy002/LeetCode/tree/master/0018-4sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/rudy002/LeetCode/tree/master/0018-4sum) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/rudy002/LeetCode/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
