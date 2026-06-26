@@ -1,12 +1,9 @@
 class Solution:
     def moveZeroes(self, nums: List[int]) -> None:
-        """
-        Do not return anything, modify nums in-place instead.
-        """
-        size = len(nums)
+        insert_pos = 0
+        for l in range(len(nums)):
+            if nums[l] != 0:
+                nums[l], nums[insert_pos] = nums[insert_pos], nums[l]
+                insert_pos += 1
 
-        nums[:] = [x for x in nums if x!=0]
-
-        nums.extend([0] * (size - len(nums)))
-
-        
+    
