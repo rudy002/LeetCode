@@ -27,10 +27,12 @@ Solutions are written for clarity and optimal time complexity where possible.
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rudy002/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rudy002/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rudy002/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rudy002/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## Backtracking
 |  |
@@ -63,4 +65,8 @@ Solutions are written for clarity and optimal time complexity where possible.
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rudy002/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rudy002/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
