@@ -1,17 +1,23 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        chars = set()
-        max_len = 0
-        left=0
+        right = 0
+        
+        maxi = 0
+        count = 0
+        seen = {} # dico avec key : element du tableau et value son index
 
-        for right in range(len(s)):
-            
-            while s[right] in chars:
-                chars.remove(s[left])
-                left+=1
-            
-            chars.add(s[right])
-            max_len = max(max_len, right - left + 1)
+        while right <len(s):
+            if s[right] not in seen:
+                seen[s[right]] = right
+                count +=1
+                right+=1
+            else: 
+                if count > maxi:
+                    maxi = count
+                
+                right = seen[s[right]] + 1
+                count =0
+                seen.clear()
 
-        return max_len
-
+        
+        return max(count, maxi)
