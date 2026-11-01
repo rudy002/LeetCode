@@ -41,6 +41,7 @@ Solutions are written for clarity and optimal time complexity where possible.
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rudy002/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/rudy002/LeetCode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/rudy002/LeetCode/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rudy002/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -64,9 +65,14 @@ Solutions are written for clarity and optimal time complexity where possible.
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rudy002/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rudy002/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rudy002/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rudy002/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
