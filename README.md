@@ -33,6 +33,7 @@ Solutions are written for clarity and optimal time complexity where possible.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rudy002/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/rudy002/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rudy002/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## Backtracking
 |  |
